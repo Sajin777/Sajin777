@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hi 👋, I'm Sajin
+  Hi 👋
+  I'm Sajin
 </h1>
 
 <h3 align="center">
