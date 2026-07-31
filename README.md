@@ -1,6 +1,3 @@
-<h1 align="center">
-  Hi 👋
-  </h1>
  <h1 align="center">
   I'm Sajin
 </h1>
@@ -10,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Python+Developer+🐍;Learning+C+Programming;Learning+Java;Learning+HTML+CSS+JavaScript;Future+Full+Stack+Developer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Python+Developer+🐍;C+Programmer;Learning+Java;Learning+HTML+CSS+JavaScript;Future+Full+Stack+Developer+🚀" />
 </p>
 
 ---
@@ -21,8 +18,8 @@
 
 - 🎓 Computer Science Student
 - 🐍 Learned **Python**
+- ©️ Learned **C Programming**
 - 💻 Currently Learning:
-  - C Programming
   - Java
   - HTML
   - CSS
@@ -66,9 +63,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sajin777&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajin777&theme=tokyonight"/>
 
 </p>
 
@@ -78,7 +75,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajin777&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -88,7 +85,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sajin777&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -98,7 +95,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Sajin777/Sajin777/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -108,15 +105,15 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Sajin777">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&Logo color=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/Sajin P">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logocolor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto: sajin7099@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -138,7 +135,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sajin777&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
