@@ -34,7 +34,7 @@
 
 ### Languages
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 <img src="https://skillicons.dev/icons?i=c" height="55"/>
