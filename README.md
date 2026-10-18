@@ -1,4 +1,4 @@
- <h1 align="center">
+<h1 align="center">
   I'm Sajin
  </h1>
 
@@ -51,7 +51,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode">
 
 </p>
 
@@ -109,13 +109,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&Logocolor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Sajin P">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logocolor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/Sajin P"></a>
 
-<a href="mailto: sajin7099@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto: sajin7099@gmail.com"></a>
 
 </p>
 
