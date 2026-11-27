@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Python+Developer+🐍;C+Programmer;Learning+Java;Learning+HTML+CSS+JavaScript;Future+Full+Stack+Developer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Python+Developer+🐍;C+Programmer;Java+Programmer;Learning+HTML+CSS+JavaScript;Future+Full+Stack+Developer+🚀" />
 </p>
 
 ---
@@ -19,8 +19,8 @@
 - 🎓 Computer Science Student
 - 🐍 Learned **Python**
 - ©️ Learned **C Programming**
+- ☕ Learned **Java**
 - 💻 Currently Learning:
-  - Java
   - HTML
   - CSS
   - JavaScript
